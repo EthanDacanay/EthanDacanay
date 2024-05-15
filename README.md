@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @EthanDacanay
+- 🌱 I’m currently learning Java and Android Studio
